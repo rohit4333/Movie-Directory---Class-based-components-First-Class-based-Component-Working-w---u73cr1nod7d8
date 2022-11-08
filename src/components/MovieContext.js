@@ -1,5 +1,3 @@
-
-
 const moviesList = [
   {
     id: 1,
@@ -31,5 +29,6 @@ const moviesList = [
     year: 1957,
     director: "Sidney Lumet",
   },
-]
+];
 
+export default moviesList;
